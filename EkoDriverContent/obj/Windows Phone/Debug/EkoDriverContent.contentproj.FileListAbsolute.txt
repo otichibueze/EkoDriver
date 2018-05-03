@@ -1,0 +1,2 @@
+C:\Users\BERRY\Documents\Ekodriver\version1.8\EkoDriver\EkoDriver\EkoDriverContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\BERRY\Documents\Visual Studio 2010\Projects\EkoDriver\EkoDriver\EkoDriverContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
